@@ -1,4 +1,4 @@
-# Sylvester
+
 
 This readme is intended for team members and subject matter experts who will be working with me the business analyst. It outlines my roles as a business analyst, responsibilities, and how I work with the team.
 
