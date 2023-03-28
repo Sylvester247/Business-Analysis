@@ -1,6 +1,6 @@
 # busines-Analysis
 
-This readme is intended for team members and subject matter expert who will be working with me the business analyst. It outlines my roles as a business analyst, responsibilities, and how I work with the team.
+This readme is intended for team members and subject matter experts who will be working with me the business analyst. It outlines my roles as a business analyst, responsibilities, and how I work with the team.
 
 My Role 
 I am responsible for analyzing and documenting business processes, systems, and requirements. I work closely with stakeholders and project teams to understand business needs and translate them into functional and non functional requirements.
@@ -31,5 +31,9 @@ Finally, I play a very critical role in ensuring that business needs are met thr
 
 #mapping
 #Use-case
+#User-stories
 #Use-Case-Description
 #Elicitation
+#Agile-Scrum-Waterfall
+#3C's
+#INVEST
